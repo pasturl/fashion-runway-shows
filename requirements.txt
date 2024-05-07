@@ -1,0 +1,7 @@
+streamlit
+openai-clip
+torch
+numpy
+Pillow
+torchvision
+faiss-cpu
